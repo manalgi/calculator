@@ -19,6 +19,7 @@ int main(void) {
 
 		
 		clr(num);
+		n=0;
 		cout << "f(x)= ";
 		cin >> num1 >> ch;
 		x = detec(num1);
